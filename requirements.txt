@@ -1,5 +1,5 @@
 streamlit
-FinanceDataReader
+finance-datareader==0.9.92
 yfinance
 plotly
 pandas
